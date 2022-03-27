@@ -1,5 +1,4 @@
 # snake-game
-snake game - DIO project
 
 Fiz esse simples jogo da "cobrinha" para treinar algumas habilidades de Javascript.
 Was made to train some javascript skills.
